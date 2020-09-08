@@ -5,4 +5,4 @@ Create a repository at github.com
 Create a text file called README.md with the content is 
 "This repository is belong to <Ho Duc Long>.
 Under the collaboration of: 
-< list of your collaborators> "
+-Nguyễn Việt Long "
